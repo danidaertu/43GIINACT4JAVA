@@ -2,7 +2,7 @@
 
 ## Pruebas en Java usando Junit
 
-Las pruebas se encuentran en <a href="http://example.net/">src/TaskServiceTest.java</a>
+Las pruebas se encuentran en <a href="https://github.com/danidaertu/43GIINACT4JAVA/blob/master/src/TaskServiceTest.java">src/TaskServiceTest.java</a>
 
 ## Pruebas
 
